@@ -21,7 +21,7 @@ const listener = app.listen(process.env.PORT, () => {
 
 const Discord = require ("discord.js")
 const moment = require ("moment")
-const DarkMan = new Discord.Client();
+const dimod = new Discord.Client();
 const prefix = "PREFIX LERA DABNE";
 
 
